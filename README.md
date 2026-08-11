@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EANet, IEEE TGRS 2025</a> </p>
 
 - Paper: [Rethinking masked autoencoder for salient object detection in optical remote sensing images from a pseudo image pretraining perspective](https://ieeexplore.ieee.org/document/10981795)
@@ -24,3 +25,6 @@ If you find the code helpful in your research or work, please cite the following
  }
 
 ```
+=======
+# major-project
+>>>>>>> eeda93968ed154affb43ad6c790da5d070790ff2
